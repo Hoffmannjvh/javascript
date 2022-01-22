@@ -6,3 +6,7 @@ const sobrenome = "Hoffmann";
 
 //console.log(nome,  sobrenome);
 console.log(`Meu nome é ${nome} ${sobrenome} e tenho ${idade} anos.`);
+
+
+//const nomeCompleto = nome + sobrenome;
+//console.log(nomeCompleto);
